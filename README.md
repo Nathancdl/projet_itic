@@ -55,3 +55,8 @@ L'application doit être structurée avec une navigation et un footer, tout le c
 - ![#7b63ad](https://via.placeholder.com/15/7b63ad/000000?text=+) `#7b63ad`
 
 <br>
+
+## Police
+
+![](https://i.imgur.com/JbElTjd.png)
+<br>
