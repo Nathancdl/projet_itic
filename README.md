@@ -45,18 +45,24 @@ L'application doit être structurée avec une navigation et un footer, tout le c
 
 ## Color Theme
 
-![](https://i.imgur.com/OOGB3oX.png)
+![](https://i.imgur.com/mFmsndH.png)
 <br>
 
 - ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000`
-- ![#b4fabf](https://via.placeholder.com/15/b4fabf/000000?text=+) `#b4fabf`
-- ![#facc9b](https://via.placeholder.com/15/facc9b/000000?text=+) `#facc9b`
-- ![#aa82fa](https://via.placeholder.com/15/aa82fa/000000?text=+) `#aa82fa`
-- ![#7b63ad](https://via.placeholder.com/15/7b63ad/000000?text=+) `#7b63ad`
+- ![#525252](https://via.placeholder.com/15/525252/000000?text=+) `#525252`
+- ![#fed530](https://via.placeholder.com/15/fed530/000000?text=+) `#fed530`
 
 <br>
+
+## Button
+
+![](https://i.imgur.com/MsAVXHe.png)
+<br>
+
 
 ## Police
 
 ![](https://i.imgur.com/JbElTjd.png)
 <br>
+
+
