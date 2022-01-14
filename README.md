@@ -1,5 +1,6 @@
 # Projet ITIC
-
+[Preview](https://nathancdl.github.io/projet_itic/)
+<br>
 Développer une application VueJS : Streaming Application
 
 ![](https://i.imgur.com/apd0OYs.png)
