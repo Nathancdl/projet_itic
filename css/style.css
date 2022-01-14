@@ -1,126 +1,113 @@
-html{
-    font-size: 62.5%;
-    scroll-behavior: smooth;
-}
-body{
-    font: 1.6rem 'Raleway',sans-serif;
-    margin: 0;
-    background-color: #fff;
-    line-height: 1.6;
-    text-rendering:optimizeLegibility;
-}
-h1,h2,h3,h4,p,ul,ol, figure{
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    font-weight: 200;
-}
-*{
-    box-sizing: border-box;
-}
-img{
-    display: inline-block;
-    width: 100%;
-    height: 100%;
-    vertical-align: middle;
-    object-fit: cover;
-}
-a{
-    text-decoration: none;
-    color: #222;
-}
+    body {
+        background-color: #000000;
+        color: white;
+    }
 
-button, input[type="submit"]{
-    padding: 0;
-    background-color: transparent;
-    font-size: inherit;
-    border: 0;
-}
-input,textarea{
-    border: 0;
+    header {
+        margin: 2rem;
+        color: #525252;
+        display: flex;
+        justify-content: center;
+        align-items: center;      
+        background-color: #fed530;
+        border-radius: 10px; 
+    }
 
-}
+    header img {
+        margin-right: 5rem;
+        width: 10rem;
+    }
+    
+    main section h2{
+        text-align: center;
+    }
 
-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 2rem 0;
-}
+    main section p{
+        max-width: 70rem;
+        text-align: center;
+        margin: 0 auto;
+        padding: 3rem 5rem;
+    }
 
-header img {
-    margin-right: 5rem;
-    width: 10rem;
-}
+    .presentation {
+        border-radius: 10px; 
+        margin: 2rem;
+        background-color: #525252;
+    }
 
-main section h2{
-    text-align: center;
-}
+    .list_image{
+        background-color: #525252;
+        max-width: 90%;
+        margin: 4rem auto;
+        border-radius: 10px;      
+    }
 
-main section p{
-    max-width: 70rem;
-    text-align: center;
-    margin: 0 auto;
-    border: .1rem solid black;
-    padding: 3rem 5rem;
-}
+    .list_image ul{
+        font-size: 0;
+    }
 
-.list_image{
-    max-width: 55rem;
-    margin: 4rem auto;
-}
+    .list_image ul li{
+        display: inline-block;
+        margin: 2rem;
+        width: 30%;
+        height: 60rem;
+       
+    }
+    .list_image ul li img{
+        border-radius: 10px;
+       
+    }
 
-.list_image ul{
-    font-size: 0;
-}
+    main aside:last-child{
+        text-align: center;
+        margin: 8rem;
+    }
 
-.list_image ul li{
-    display: inline-block;
-    margin: .5rem;
-}
+    main aside a{
+        background-color: #fed530;
+        color: #fafafa;
+        padding: 1.5rem 9rem;
+        border-radius: 30px;
+        color: #525252;
+    }
 
-main section:last-child{
-    text-align: center;
-    margin: 8rem;
-}
+    footer{
+        
+        text-align: center;
+        background-color: #525252;
+        margin-bottom: 0;
+        width: 100%;
+    }
 
-main section a{
-    background-color: #3B99CC;
-    color: #fafafa;
-    padding: 1.5rem 9rem;
-}
+    .form h2{
+        text-align: center;
+    }
 
-footer{
-    text-align: center;
-}
-/*------- Formulaire --------*/
+    .form form{
+        max-width: 50rem;
+        margin: 0 auto;
+    }
 
-.form h2{
-    text-align: center;
-}
+    .form form input, .form form label{
+        display: block;
+    }
 
-.form form{
-    max-width: 50rem;
-    margin: 0 auto;
-}
+    .form form label{
+        margin-top: 2rem;
+    }
 
-.form form input, .form form label{
-    display: block;
-}
+    .form form input{
+        border: .1rem solid black;
+        padding: 1rem;
+        border-radius: .5rem;
+        width: 100%;
+    }
 
-.form form label{
-    margin-top: 2rem;
-}
-
-.form form input{
-    border: .1rem solid black;
-    padding: 1rem;
-    border-radius: .5rem;
-    width: 100%;
-}
-
-.form form input:last-child{
-    margin: 5rem 0;
-    background-color: #F0F0F0;
-    cursor: pointer;
-}
+    .form form input:last-child{
+        width: 100%;
+        margin: 5rem 0;
+        cursor: pointer;
+        background-color: #fed530;
+        border-radius: 30px;
+        color: #525252;
+    }
