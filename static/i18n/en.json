@@ -1,5 +1,6 @@
 {
   "general" : {
+    "streaming_counter_description": "This counter is the number of films or series you can watch with your account"
     
   },
   "pages" : {

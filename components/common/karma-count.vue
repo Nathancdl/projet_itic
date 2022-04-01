@@ -9,7 +9,7 @@
     <div v-if="isOpen" class="content flex column">
       <img class="icon icon_64x64 filter-green" src="/icons/knot.svg" alt="Nombre de requêtes">
       <div class="description">
-        {{ $t('general.karma_counter_description') }}
+        {{ $t('general.streaming_counter_description') }}
       </div>
     </div>
   </div>

@@ -1,6 +1,6 @@
 {
   "general" : {
-    
+    "streaming_counter_description": "Ce compteur correspond au nombre total de films ou series vous pouvez regarder avec votre compte"
   },
   "pages" : {
     "home" : "Accueil",
