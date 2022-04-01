@@ -13,21 +13,17 @@
         <sly-cell class="part">
           <span class="content">
             <span class="title">{{$t('pages.ressources')}}</span>
-            <tw-external-link class="option inherit important underline-hover" target="_self" :href="$t('pages.faq_url')">
-                {{$t('pages.faq')}}
-            </tw-external-link>
-            <tw-external-link class="option inherit important underline-hover" target="_blank" :href="$t('pages.press_url')">
-                {{$t('pages.press')}}
-            </tw-external-link>
+            <tw-internal-link class="option inherit underline-hover" to="/faq">{{$t('pages.faq')}}</tw-internal-link>
+            <tw-internal-link class="option inherit underline-hover" to="/press">{{$t('pages.press')}}</tw-internal-link>
           </span>
         </sly-cell>
         <sly-cell class="part">
           <span class="content">
             <span class="title">{{$t('pages.app')}}</span>
-             <tw-external-link  target="_self" :href="$t('pages.faq_url')">
+             <tw-external-link  target="_self" :href="$t('pages.faq')">
                  <img class="app-logo" src="/images/home/apple.png" alt="Apple logo"/>
             </tw-external-link>
-             <tw-external-link  target="_self" :href="$t('pages.faq_url')">
+             <tw-external-link  target="_self" :href="$t('pages.press')">
                  <img class="app-logo" src="/images/home/android.png" alt="Android logo"/>
             </tw-external-link>
           
