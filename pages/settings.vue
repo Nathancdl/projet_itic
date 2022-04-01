@@ -84,6 +84,7 @@
 </template>
 
 <script>
+import Fund from "@/components/homePage/fund";
 import TwInput from "~/components/common/input/tw-input";
 import TwSelect from "~/components/common/input/tw-select";
 import TwButton from "~/components/common/tw-button";
@@ -96,7 +97,7 @@ import moment from "moment";
 
 export default {
   layout: 'default',
-  components: {KHeader, SlyCell, SlyFrag, TwButton, TwInput, KFooter, TwSelect},
+  components: {KHeader, SlyCell, SlyFrag, TwButton, TwInput, KFooter, TwSelect, Fund},
   head () {
     const i18nHead = this.$nuxtI18nHead({ addSeoAttributes: true })
     let head = {
