@@ -2,7 +2,7 @@
   <div>
     <showcase></showcase>
     <fund></fund>
-    <partnership v-if="this.$i18n.locale === 'fr'"></partnership>
+    <partnership></partnership>
 
     <k-footer :black="true" :separator="true"></k-footer>
   </div>

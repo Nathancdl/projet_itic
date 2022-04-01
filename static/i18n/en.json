@@ -3,24 +3,19 @@
     
   },
   "pages" : {
-    "home" : "Accueil",
-    "settings" : "Paramètres",
+    "home" : "Home",
+    "settings" : "Parameter",
     "premium" : "Premium"
     
-  },
+  }, 
   "showcase_image" : {
     "src" : "/images/showcase/cinema.webp",
-    "src_mobile" : "/images/showcase/cinema-mobile.jpg",
-    "description" : "Colibri circé",
-    "rights" : "(CC) BY-NC-SA",
-    "author" : "Philip Brown",
-    "author_link" : "https://unsplash.com/photos/EinKdyLyK98"
+    "src_mobile" : "/images/showcase/cinema-mobile.jpg"
   },
- 
   "settings" : {
-    "settings" : "Paramètres",
-    "darkmode_interface" : "Mode nuit",
-    "darkmode_interface_description" : "Mode nuit",
+    "settings" : "Parameter",
+    "darkmode_interface" : "Night Mode",
+    "darkmode_interface_description" : "Night Mode",
     "safesearch_interface" : "Activer ou désactiver SafeSearch",
     "safesearch_interface_description" : "Filtrer les résultats explicites avec SafeSearch",
     "personalized_results_interface" : "Résultats de recherche personnalisés",
@@ -34,41 +29,44 @@
     "period_week": "La semaine dernière",
     "period_month": "Le mois dernier"
   },
+  "premium" : {
+    "title" : "Premium"
+  },
   "home_page" : {
-    "seo_title": "KARMA search - le moteur de recherche qui défend la biodiversité et la cause animale",
-    "seo_description": "Contribuez à la protection de la biodiversité et à la défense de la cause animale en effectuant des recherches sur Internet! KARMA search est gratuit et vous aide à protéger votre vie privée.",
-    "try_it": "Essayer",
-    "title_price": "L'essayer c'est l'adopter",
-    "year_price" : "<b>6,99€</b> Au lieu de </br> <b style='text-decoration: line-through;'>13,99€</b>/mois",
-    "6_price" : "<b>13,99€</b> Au lieu de </br> <b style='text-decoration: line-through;'>20,99€</b>/mois",
-    "3_price" : "<b>20,99€</b> Au lieu de </br> <b style='text-decoration: line-through;'>29,99€</b>/mois",
-    "1_price" : "<b>29,99€</b></br>/mois",
-    "know_more" : "En savoir plus",
-    "year" : "1 an",
-    "_6" : "6 mois",
-    "_3" : "3 mois",
-    "_1" : "1 mois"
+    "seo_title": "Streaming",
+    "seo_description": "Watch movies and series",
+    "try_it": "Try it",
+    "title_price": "Try it and use it",
+    "year_price" : "<b>6,99$</b> instead of </br> <b style='text-decoration: line-through;'>13,99$</b>/mois",
+    "6_price" : "<b>13,99$</b> instead of </br> <b style='text-decoration: line-through;'>20,99$</b>/mois",
+    "3_price" : "<b>20,99$</b> instead of </br> <b style='text-decoration: line-through;'>29,99$</b>/mois",
+    "1_price" : "<b>29,99$</b></br>/mois",
+    "know_more" : "More",
+    "year" : "1 year",
+    "_6" : "6 months",
+    "_3" : "3 months",
+    "_1" : "1 months"
   },
   "films":{
-    "aspas":{
+    "lorem1":{
       "id": "1",
-      "name": "ASPAS",
-      "image": "/images/home/aspas.png",
-      "description": "Défendre les sans-voix de la faune sauvage, lutter contre les abus de la chasse, créer des Réserves de Vie Sauvage® sans chasse ni exploitation forestière. L’ASPAS est une association pionnière du ré-ensauvagement en France.",
+      "name": "Lorem Ipsum",
+      "image": "/icons/brand/icon.png",
+      "description": "Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem",
       "link": "/aspas"
     },
-    "naat":{
+    "lorem2":{
       "id": "2",
-      "name": "Notre Affaire à Tous",
-      "image": "/images/home/naat.png",
-      "description": "Réinventer notre relation à la Nature en créant un droit de l’environnement adapté aux limites planétaires, notamment grâce à la reconnaissance du crime d’écocide et l’octroi de la personnalité juridique à des entités vivantes (fleuves, rivières...).",
+      "name": "Lorem Ipsum",
+      "image": "/icons/brand/icon.png",
+      "description": "Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ips",
       "link": "/naat"
     },
-    "L214":{
+    "lorem3":{
       "id": "3",
-      "name": "L214",
-      "image": "/images/home/L214.png",
-      "description": "Défendre les animaux utilisés comme ressources alimentaires (viande, lait, œufs, poissons). Ses vidéos ont permis de révéler les pratiques routinières et les dysfonctionnements d’une industrie qui considère et traite les animaux comme des marchandises.",
+      "name": "Lorem Ipsum",
+      "image": "/icons/brand/icon.png",
+      "description": "Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ips",
       "link": "/L214"
     }
   }

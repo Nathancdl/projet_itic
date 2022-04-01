@@ -3,7 +3,7 @@
     <k-header class="header minimal" :search-page="false"></k-header>
     <sly-cell class="settings-container flex column">
       <sly-cell class="title flex">
-        {{$t('settings.settings')}}
+        {{$t('premium.title')}}
       </sly-cell>
       <sly-cell class="options flex column">
 

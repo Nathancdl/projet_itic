@@ -8,10 +8,10 @@
       <tw-external-link class="option inherit" target="_self" to="/">
         {{$t('pages.home')}}
       </tw-external-link>
-       <tw-internal-link class="option inherit" to="/premium">
+       <tw-internal-link class="option inherit" to="/settings">
         {{$t('pages.settings')}}
       </tw-internal-link>
-      <tw-internal-link class="option inherit important" to="/settings">
+      <tw-internal-link class="option inherit important" to="/premium">
         {{$t('pages.premium')}}
       </tw-internal-link>
 

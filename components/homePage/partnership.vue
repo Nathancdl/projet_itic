@@ -225,6 +225,7 @@ export default {
     height 246px
     margin MARGIN_SMALL
     vertical-align middle
+    filter: brightness(0.1%)
     
   }
   .left{

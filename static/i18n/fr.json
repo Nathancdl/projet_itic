@@ -10,11 +10,7 @@
   },
   "showcase_image" : {
     "src" : "/images/showcase/cinema.webp",
-    "src_mobile" : "/images/showcase/cinema-mobile.jpg",
-    "description" : "Colibri circé",
-    "rights" : "(CC) BY-NC-SA",
-    "author" : "Philip Brown",
-    "author_link" : "https://unsplash.com/photos/EinKdyLyK98"
+    "src_mobile" : "/images/showcase/cinema-mobile.jpg"
   },
   
   "settings" : {
@@ -33,6 +29,9 @@
     "period_day": "Les dernières 24 heures",
     "period_week": "La semaine dernière",
     "period_month": "Le mois dernier"
+  },
+  "premium" : {
+    "title" : "Premium"
   },
   "home_page" : {
     "seo_title": "Streaming",
@@ -54,23 +53,23 @@
   "films":{
     "aspas":{
       "id": "1",
-      "name": "ASPAS",
-      "image": "/images/home/aspas.png",
-      "description": "Défendre les sans-voix de la faune sauvage, lutter contre les abus de la chasse, créer des Réserves de Vie Sauvage® sans chasse ni exploitation forestière. L’ASPAS est une association pionnière du ré-ensauvagement en France.",
+      "name": "Lorem Ipsum",
+      "image": "/icons/brand/icon.png",
+      "description": "Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem",
       "link": "/aspas"
     },
     "naat":{
       "id": "2",
-      "name": "Notre Affaire à Tous",
-      "image": "/images/home/naat.png",
-      "description": "Réinventer notre relation à la Nature en créant un droit de l’environnement adapté aux limites planétaires, notamment grâce à la reconnaissance du crime d’écocide et l’octroi de la personnalité juridique à des entités vivantes (fleuves, rivières...).",
+      "name": "Lorem Ipsum",
+      "image": "/icons/brand/icon.png",
+      "description": "Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ips",
       "link": "/naat"
     },
     "L214":{
       "id": "3",
-      "name": "L214",
-      "image": "/images/home/L214.png",
-      "description": "Défendre les animaux utilisés comme ressources alimentaires (viande, lait, œufs, poissons). Ses vidéos ont permis de révéler les pratiques routinières et les dysfonctionnements d’une industrie qui considère et traite les animaux comme des marchandises.",
+      "name": "Lorem Ipsum",
+      "image": "/icons/brand/icon.png",
+      "description": "Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ips",
       "link": "/L214"
     }
   }
