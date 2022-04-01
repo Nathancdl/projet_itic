@@ -1,0 +1,53 @@
+
+.selectable
+{
+  display flex
+  align-items center
+
+  padding MARGIN_CONTENT_VERY_SMALL
+
+  font-size FONT_SIZE_VERY_SMALL
+
+  border-left 3px solid transparent
+
+  user-select none
+
+  opacity 0.5
+}
+
+.selectable.activated
+{
+  cursor pointer
+
+  opacity 1.0
+}
+
+.selectable .background
+{
+  position absolute
+  top 0
+  left @top
+  right @top
+  bottom @top
+
+  transition background-color TRANSITION_DEFAULT
+
+  opacity 0.2
+}
+
+.selectable.selected .background
+{
+  background-color THEME_COLOR_SECONDARY
+}
+
+.selectable .label
+{
+  width 80%
+}
+
+.selectable .info
+{
+  display flex
+  justify-content flex-end
+  width 20%
+}

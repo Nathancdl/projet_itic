@@ -1,0 +1,463 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "paris"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=paris",
+    "totalEstimatedMatches": 79900000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Paris.fr, site officiel de la Ville de Paris",
+        "url": "https://www.paris.fr/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.paris.fr",
+        "snippet": "Paris.fr ne fait aucun suivi publicitaire et ne collecte aucune donnée personnelle. Des cookies sont utilisés à des fins statistiques ou de fonctionnement, ainsi que d'analyse (que vous pouvez refuser ici), nous permettant d'améliorer le site en continu.",
+        "dateLastCrawled": "2021-07-17T03:17:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/LicenseAttribution",
+            "targetPropertyName": "snippet",
+            "targetPropertyIndex": 1,
+            "mustBeCloseToContent": true,
+            "license": {
+              "name": "CC-BY-SA",
+              "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+            },
+            "licenseNotice": "Texte sous licence CC-BY-SA"
+          }
+        ],
+        "name": "Paris — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Paris",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://fr.wikipedia.org/wiki/Paris",
+        "snippet": "Paris (/ p a. ʁ i / [a] Écouter) est la commune la plus peuplée et la capitale de la France.. Elle se situe au cœur d'un vaste bassin sédimentaire aux sols fertiles et au climat tempéré, le bassin parisien, sur une boucle de la Seine, entre les confluents de celle-ci avec la Marne et l'Oise.Paris est également le chef-lieu de la région Île-de-France et le centre de la métropole du ...",
+        "dateLastCrawled": "2021-07-18T14:11:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Office de tourisme Paris - Site Officiel",
+        "url": "https://www.parisinfo.com/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.parisinfo.com",
+        "snippet": "ParisInfo : Des informations pratiques pour organiser votre voyage et votre séjour à Paris : hôtels et hébergements, monuments à Paris, restaurants, événements, shopping, sorties…",
+        "dateLastCrawled": "2021-07-17T19:37:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Services - Ville de Paris",
+        "url": "https://www.paris.fr/services",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.paris.fr/services",
+        "snippet": "Paris.fr ne fait aucun suivi publicitaire et ne collecte aucune donnée personnelle.Des cookies sont utilisés à des fins statistiques ou de fonctionnement, ainsi que d'analyse (que vous pouvez refuser ici), nous permettant d'améliorer le site en continu.",
+        "dateLastCrawled": "2021-07-18T00:21:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Que visiter à Paris - Office de tourisme Paris",
+        "url": "https://www.parisinfo.com/visiter-a-paris",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.parisinfo.com/visiter-a-paris",
+        "snippet": "5 quartiers où voir du street art à Paris. Du bassin de la Villette au quartier festif d’Oberkampf en passant par le 13e arrondissement ou la proche banlieue, il n’y a pas un endroit à Paris où le street art n’a pas sa place.",
+        "dateLastCrawled": "2021-07-17T05:12:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Paris - Actualités, vidéos et infos en direct",
+        "url": "https://www.lemonde.fr/paris/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.lemonde.fr/paris",
+        "snippet": "Toute l’actualité sur le sujet Paris. Consultez l’ensemble des articles, reportages, directs, photos et vidéos de la rubrique Paris publiés le samedi 17 juillet 2021.",
+        "dateLastCrawled": "2021-07-17T21:11:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Actualité Paris (75) : info en continu, faits divers ...",
+        "url": "https://www.20minutes.fr/paris/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.20minutes.fr/paris",
+        "snippet": "Info Paris ( 75 ) : retrouvez toutes les actualités de Paris et de ses environs en continu et en direct via nos articles, infographies et vidéos",
+        "dateLastCrawled": "2021-07-15T09:38:00.0000000Z",
+        "language": "fr",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Paris (@Paris) | Twitter",
+        "url": "https://twitter.com/paris",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://twitter.com/paris",
+        "snippet": "Les derniers tweets de @paris",
+        "dateLastCrawled": "2021-03-31T01:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      }
+    ]
+  },
+  "news": {
+    "id": "https://api.bing.microsoft.com/api/v7/#News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=paris",
+    "value": [
+      {
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/TextAttribution",
+            "text": "Les Echos Investir"
+          }
+        ],
+        "name": "La Bourse de Paris retrouve son élan, les pertes de lundi sont effacées",
+        "url": "https://investir.lesechos.fr/marches/actualites/la-bourse-de-paris-retrouve-son-elan-les-pertes-de-lundi-sont-effacees-1972752.php",
+        "image": {
+          "contentUrl": "https://investir.lesechos.fr/medias/2021/07/21/1972752_1626881261_1970834-1625587002-1969645-1624975534-1900827-1584704402-paris-2716949.jpg",
+          "thumbnail": {
+            "contentUrl": "https://www.bing.com/th?id=OVFT.G9CkN3YWyO6lJhJsHCqikC&pid=News",
+            "width": 700,
+            "height": 411
+          }
+        },
+        "description": "Les marchés sont gagnés par un regain d'optimisme. L'indice Cac 40 s'est installé au-dessus des 6.400 points tandis que",
+        "about": [
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/295c0f5d-6661-8ea5-5200-52fd08a26074",
+            "name": "Paris Bourse"
+          },
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/39a099bf-c54d-caa2-7d32-541050f2e7e4",
+            "name": "Bourse"
+          },
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/3b5ee441-d208-c908-055e-bfb0d03e6282",
+            "name": "La Bourse"
+          }
+        ],
+        "provider": [
+          {
+            "_type": "Organization",
+            "name": "Les Echos Investir",
+            "image": {
+              "thumbnail": {
+                "contentUrl": "https://www.bing.com/th?id=AR_0c5fc16ee42fb6c829e54c84f343acfc&pid=news"
+              }
+            }
+          }
+        ],
+        "datePublished": "2021-07-21T15:45:00.0000000Z",
+        "category": "Business"
+      },
+      {
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/TextAttribution",
+            "text": "20 Minutes"
+          }
+        ],
+        "name": "Paris : La « course contre-la-montre » des travaux de la ligne 6",
+        "url": "https://www.20minutes.fr/paris/3088115-20210721-paris-course-contre-montre-travaux-ligne-6",
+        "image": {
+          "contentUrl": "https://img.20mn.fr/snqZw-EiQVC3yWVRA4-yyyk/648x360_travaux-renovation-viaduc-ligne-6-secteur-cambronne.jpg",
+          "thumbnail": {
+            "contentUrl": "https://www.bing.com/th?id=OVFT.S8THBiFL9Twh77yy7BhFiS&pid=News",
+            "width": 648,
+            "height": 360
+          }
+        },
+        "description": "Ces travaux d’aménagement et de rénovation visent à maintenir la sécurité sur les voies entre les stations Passy et Pasteur de la ligne 6, avant une remise en circulation le 28 août à Paris",
+        "about": [
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/85584d24-2116-5b98-89f9-5714db931ac6",
+            "name": "Paris"
+          },
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/0ca1e87f-e2f6-43fb-8deb-d22bd09a9cae",
+            "name": "Louisiana"
+          }
+        ],
+        "provider": [
+          {
+            "_type": "Organization",
+            "name": "20 Minutes"
+          }
+        ],
+        "datePublished": "2021-07-21T15:45:00.0000000Z",
+        "video": {
+          "name": "La « course contre-la-montre » des travaux de la ligne 6 à Paris",
+          "thumbnailUrl": "https://www.bing.com/th?id=OVF.fNHbpS6oUh80za7GajA3PQ&pid=News",
+          "thumbnail": {
+            "width": 300,
+            "height": 166
+          }
+        },
+        "category": "France"
+      },
+      {
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/TextAttribution",
+            "text": "L'ÉQUIPE"
+          }
+        ],
+        "name": "Série les secrets de Paris 2024 (4/4) - Scènes de ménage en Seine-Saint-Denis",
+        "url": "https://www.lequipe.fr/Tous-sports/Article/Serie-les-secrets-de-paris-2024-4-4-scenes-de-menage-en-seine-saint-denis/1271904",
+        "image": {
+          "contentUrl": "https://medias.lequipe.fr/img-photo-jpg/stephane-troussel-anne-hidalgo-patrick-braouzec-patrick-ollier-autour-d-une-maquette-du-futur-cen/1500000001518685/0:0,1331:1331-640-640-75/b87be.jpg",
+          "thumbnail": {
+            "contentUrl": "https://www.bing.com/th?id=OVFT.lsNZA7xxug_D46zEkKwHNi&pid=News",
+            "width": 640,
+            "height": 640
+          }
+        },
+        "description": "La candidature parisienne s'est appuyée dès le départ sur la Seine-Saint-Denis. Mais entre les élus locaux et les promoteurs des Jeux, les relations ne sont pas toujours simples entre contraintes et e",
+        "about": [
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/3d5ea2f7-2680-43ce-73aa-863db59b3648",
+            "name": "Seine-Saint-Denis"
+          }
+        ],
+        "provider": [
+          {
+            "_type": "Organization",
+            "name": "L'ÉQUIPE"
+          }
+        ],
+        "datePublished": "2021-07-21T15:42:00.0000000Z"
+      },
+      {
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/TextAttribution",
+            "text": "Le Parisien"
+          }
+        ],
+        "name": "Paris-Plages à la Villette : une «bouffée d’oxygène» au cœur de l’enfer du crack",
+        "url": "https://www.leparisien.fr/paris-75/paris-plages-a-la-villette-une-bouffee-doxygene-au-coeur-de-lenfer-du-crack-21-07-2021-ENYG3EUXRZFUTJ5XAWBJGQZTZY.php",
+        "image": {
+          "contentUrl": "https://www.leparisien.fr/resizer/f7XZ32bJ9gp6qxyQQG2ZPx4IHys=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/JAVYF5ZJINHAZLV7K5KRAJWJWM.jpg",
+          "thumbnail": {
+            "contentUrl": "https://www.bing.com/th?id=OVFT.YTaGMBAURQ26djmLGew_Hi&pid=News",
+            "width": 700,
+            "height": 393
+          }
+        },
+        "description": "Le bassin de la Villette (XIXe), placé sous haute protection, a retrouvé son air de fête estival. Mais autour, tout rappelle que le Nord-Est",
+        "about": [
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/c1b37719-4d29-c6b7-1a84-08081859da1b",
+            "name": "Paris-Plages"
+          },
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/ecfd01aa-3714-a90a-e6fe-33c71df3277c",
+            "name": "La Villette, Seine"
+          },
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/c1621b64-2861-9cda-6ada-87d16a760529",
+            "name": "Craic"
+          }
+        ],
+        "provider": [
+          {
+            "_type": "Organization",
+            "name": "Le Parisien"
+          }
+        ],
+        "datePublished": "2021-07-21T14:00:00.0000000Z",
+        "category": "France"
+      },
+      {
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/TextAttribution",
+            "text": "Libération via MSN.com"
+          }
+        ],
+        "name": "Paris sportifs : l’Autorité nationale des jeux tape enfin du poing sur la table contre les dérives des sites",
+        "url": "https://www.msn.com/fr-fr/news/france/paris-sportifs-l-e2-80-99autorit-c3-a9-nationale-des-jeux-tape-enfin-du-poing-sur-la-table-contre-les-d-c3-a9rives-des-sites/ar-AAMoZZF",
+        "image": {
+          "contentUrl": "https://www.liberation.fr/resizer/hPfSPRRDMTOa1cx46eOfk5WFi84=/1200x630/cloudfront-eu-central-1.images.arcpublishing.com/liberation/TILXJVZ5GFGDBNHATWUKXXVBP4.jpg",
+          "thumbnail": {
+            "contentUrl": "https://www.bing.com/th?id=OVFT.8hwNziqXSdB8yPcSJhYwhC&pid=News",
+            "width": 700,
+            "height": 367
+          }
+        },
+        "description": "Face à la forte médiatisation des ravages causés par les paris sportifs pendant l’Euro 2021 et à l’enquête de «Libération», l’autorité de régulation française menace de sanctionner les opérateurs en c",
+        "about": [
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/85584d24-2116-5b98-89f9-5714db931ac6",
+            "name": "Paris"
+          }
+        ],
+        "mentions": [
+          {
+            "name": "Paris"
+          },
+          {
+            "name": "Libération"
+          },
+          {
+            "name": "Football"
+          }
+        ],
+        "provider": [
+          {
+            "_type": "Organization",
+            "name": "Libération via MSN.com"
+          }
+        ],
+        "datePublished": "2021-07-21T14:30:13.0000000Z",
+        "category": "Sports"
+      }
+    ]
+  },
+  "relatedSearches": {
+    "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches",
+    "value": [
+      {
+        "text": "plan arrondissement paris",
+        "displayText": "plan arrondissement paris",
+        "webSearchUrl": "https://www.bing.com/search?q=plan+arrondissement+paris"
+      },
+      {
+        "text": "intraparis mairie de paris",
+        "displayText": "intraparis mairie de paris",
+        "webSearchUrl": "https://www.bing.com/search?q=intraparis+mairie+de+paris"
+      },
+      {
+        "text": "la mairie de paris",
+        "displayText": "la mairie de paris",
+        "webSearchUrl": "https://www.bing.com/search?q=la+mairie+de+paris"
+      },
+      {
+        "text": "mairie de parís",
+        "displayText": "mairie de parís",
+        "webSearchUrl": "https://www.bing.com/search?q=mairie+de+par%C3%ADs"
+      },
+      {
+        "text": "université de la sorbonne",
+        "displayText": "université de la sorbonne",
+        "webSearchUrl": "https://www.bing.com/search?q=universit%C3%A9+de+la+sorbonne"
+      },
+      {
+        "text": "mon intraparis agents",
+        "displayText": "mon intraparis agents",
+        "webSearchUrl": "https://www.bing.com/search?q=mon+intraparis+agents"
+      },
+      {
+        "text": "intraparis mon email",
+        "displayText": "intraparis mon email",
+        "webSearchUrl": "https://www.bing.com/search?q=intraparis+mon+email"
+      },
+      {
+        "text": "ville de paris site",
+        "displayText": "ville de paris site",
+        "webSearchUrl": "https://www.bing.com/search?q=ville+de+paris+site"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "News",
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#News"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "Images",
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#Images"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "RelatedSearches",
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches"
+          }
+        }
+      ]
+    },
+    "sidebar": {
+      "items": [
+        {
+          "answerType": "Places",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#Places.0"
+          }
+        }
+      ]
+    }
+  }
+}

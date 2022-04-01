@@ -1,0 +1,129 @@
+
+.green {
+  background-color: THEME_COLOR_PRIMARY !important;
+}
+
+.title-type-one {
+  font-size FONT_SIZE_25PX
+  font-weight FONT_WEIGHT_BOLD
+}
+
+.title-type-two {
+  font-size 42px
+  font-weight FONT_WEIGHT_BOLD
+  line-height 42px
+}
+
+.isPhone {
+  .title-type-two {
+    font-size 30px
+    line-height 44px
+  }
+}
+
+.title-type-three {
+  font-size FONT_SIZE_25PX
+  font-weight FONT_WEIGHT_NORMAL
+  color THEME_COLOR_DARK_GREY
+}
+
+.description-type-one {
+  font-size FONT_SIZE_18PX
+  font-weight FONT_WEIGHT_NORMAL
+  color THEME_COLOR_GREY_2
+}
+
+.description-type-two {
+  font-size FONT_SIZE_18PX
+  font-weight FONT_WEIGHT_NORMAL
+  color THEME_COLOR_DARK_GREY_4
+  line-height: 150%;
+}
+
+.cta-type-one {
+  font-size FONT_SIZE_18PX
+  font-weight FONT_WEIGHT_BOLD
+  color THEME_COLOR_PRIMARY
+}
+
+.part {
+  padding-top MARGIN_MEDIUM
+}
+
+.isPhone {
+  .part {
+    padding-top MARGIN_SMALL
+  }
+}
+
+.action {
+  display flex
+  justify-content center
+}
+
+.mobile-behavior {
+  .isPhone & {
+    width: -moz-calc(100% - 60px);
+    width: -webkit-calc(100% - 60px);
+    width: -o-calc(100% - 60px);
+    width: calc(100% - 60px);
+    max-width 400px
+    margin-left 30px !important
+    margin-right 30px !important
+  }
+}
+
+.card-container {
+  display flex
+  align-items center
+  justify-content center
+  text-align center
+
+  .isPhone & {
+    flex-direction column
+  }
+
+  .card {
+    background-color THEME_COLOR_DARK_GREY_2
+    border-radius MARGIN_VERY_SMALL
+    width 260px
+    height 365px
+
+    .isPhone & {
+      margin-top MARGIN_SMALL
+      width 100%
+      max-width 300px
+      height 335px
+    }
+  }
+
+  .card.margin-right {
+    margin-right MARGIN_SMALL
+
+    .isPhone & {
+      margin-right 0
+    }
+  }
+
+  .top-background {
+    margin-top MARGIN_MEDIUM
+    background-color THEME_COLOR_DARK_GREY_3
+    border-radius MARGIN_SMALL
+    width 152px
+    height 37px
+
+    & > .icon {
+      transform translateY(- MARGIN_SMALL)
+    }
+  }
+
+  .card-title, .card-description, .card-cta {
+    width 80%
+    margin-top MARGIN_SMALL
+  }
+
+  .card-cta {
+    width 100%
+    margin-bottom MARGIN_SMALL
+  }
+}

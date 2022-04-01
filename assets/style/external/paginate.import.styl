@@ -1,0 +1,85 @@
+@require '~assets/style/imports/fonts/common.import.styl'
+@require '~assets/style/imports/theme/colors.import.styl'
+@require '~assets/style/imports/space/margins.import.styl'
+@require '~assets/style/imports/space/common.import.styl'
+
+DISABLED_COLOR = THEME_COLOR_DARK_GREY
+
+.paginate
+{
+  display flex
+
+  list-style-type none
+
+  user-select none
+}
+
+.paginate li
+{
+
+}
+
+.paginate li:hover
+{
+
+}
+
+.paginate li:first-child a
+{
+  border-radius 25px 0px 0px 25px
+}
+
+.paginate li:last-child a
+{
+  border-radius 0px 25px 25px 0px
+}
+
+.paginate li.active a
+{
+  //background-color THEME_COLOR_TERTIARY
+  color THEME_COLOR_LINK
+}
+
+.paginate li a
+{
+  padding MARGIN_SMALLER
+
+  font-size FONT_SIZE_SMALL
+  color THEME_COLOR_BACKGROUND
+
+  border 0px solid THEME_COLOR_QUATERNARY
+
+  cursor pointer
+}
+
+.paginate li.disabled a
+{
+  color DISABLED_COLOR
+
+  //display none
+
+  cursor auto
+}
+
+.paginate .break
+  display none
+
+.paginate li.disabled:first-child a
+{
+  border-color DISABLED_COLOR
+}
+
+.paginate li.disabled:last-child a
+{
+  border-color DISABLED_COLOR
+}
+
+.isTablet, .isPhone
+{
+  .paginate li a
+  {
+    padding MARGIN_CONTENT_SMALLER
+    padding-left MARGIN_CONTENT_VERY_SMALL + MARGIN_CONTENT_TINY
+    padding-right @padding-left
+  }
+}

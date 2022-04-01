@@ -1,0 +1,75 @@
+
+DISABLED_COLOR = rgba(THEME_COLOR_TERTIARY, 0.5)
+
+.paginate
+{
+  display flex
+  list-style-type none
+  user-select none
+}
+
+.paginate li
+{
+
+}
+
+.paginate li:hover
+{
+
+}
+
+.paginate li:first-child a
+{
+  border-radius 25px 0px 0px 25px
+}
+
+.paginate li:last-child a
+{
+  border-radius 0px 25px 25px 0px
+}
+
+.paginate li.active a
+{
+  background-color THEME_COLOR_SECONDARY
+}
+
+.paginate li a
+{
+  padding MARGIN_VERY_SMALL
+  padding-left MARGIN_VERY_SMALL
+  padding-right @padding-left
+
+  font-size FONT_SIZE_VERY_SMALL
+  color THEME_COLOR_BACKGROUND
+
+  border 0px solid THEME_COLOR_QUATERNARY
+
+  cursor pointer
+}
+
+.paginate li.disabled a
+{
+  color DISABLED_COLOR
+
+  cursor auto
+}
+
+.paginate li.disabled:first-child a
+{
+  border-color DISABLED_COLOR
+}
+
+.paginate li.disabled:last-child a
+{
+  border-color DISABLED_COLOR
+}
+
+.isTablet, .isPhone
+{
+  .paginate li a
+  {
+    padding MARGIN_SMALLER
+    padding-left MARGIN_VERY_SMALL + MARGIN_TINY
+    padding-right @padding-left
+  }
+}

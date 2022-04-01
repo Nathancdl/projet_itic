@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"  xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>Streaming</ShortName>
+    <Description>streaming film</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Contact>contact@streaming.org</Contact>
+    <LongName>Streaming</LongName>
+    <Image width="16" height="16" type="image/png">https://streaming.org/search/icons/favicon/favicon-16x16.png</Image>
+    <Url type="text/html" method="get" template="https://streaming.org/search?q={searchTerms}"/>
+</OpenSearchDescription>

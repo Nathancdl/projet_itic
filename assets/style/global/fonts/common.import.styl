@@ -1,0 +1,117 @@
+
+h1
+{
+  font-size FONT_SIZE_LARGER
+}
+
+h2
+{
+  font-family 'Lora'
+  font-weight FONT_WEIGHT_REGULAR
+  font-size FONT_SIZE_LARGER
+  color THEME_COLOR_SECONDARY
+}
+
+h3
+{
+  font-size FONT_SIZE_MEDIUM
+}
+
+h4
+{
+  font-weight FONT_WEIGHT_SEMIBOLD
+  font-size FONT_SIZE_VERY_SMALL
+  color THEME_COLOR_FOREGROUND
+  letter-spacing 5px
+  text-transform uppercase
+}
+
+p
+  font-weight FONT_WEIGHT_REGULAR
+  font-size FONT_SIZE_MEDIUM
+
+.isTablet, .isPhone
+  h2
+    font-size FONT_SIZE_LARGE
+  p
+    font-size FONT_SIZE_SMALL
+
+a
+{
+    color THEME_COLOR_LINK
+    text-decoration none
+    outline none
+    cursor pointer
+}
+
+a *
+{
+    @extend a
+}
+
+a:link
+{
+    @extend a
+}
+
+a:link *
+{
+    @extend a:link
+}
+
+a:visited
+{
+    @extend a
+}
+
+a:visited *
+{
+    @extend a:visited
+}
+
+a:focus
+{
+    @extend a
+}
+
+a:hover
+{
+    @extend a
+    //text-decoration underline
+}
+
+a:hover *
+{
+    @extend a:hover
+}
+
+a:active
+{
+    @extend a
+}
+
+a:active *
+{
+    @extend a:active
+}
+
+.label
+{
+
+}
+
+.label-clickable:hover
+{
+    color white
+    text-decoration underline
+
+    cursor pointer
+}
+
+.textEllipsis
+{
+    white-space: nowrap;
+    width : 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

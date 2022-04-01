@@ -1,0 +1,64 @@
+
+.accordion
+{
+  font-size FONT_SIZE_VERY_SMALL
+  font-weight FONT_WEIGHT_REGULAR
+
+  padding MARGIN_CONTENT_VERY_SMALL
+  padding-left 0
+  padding-right @padding-left
+
+  user-select none
+}
+
+.accordion .header
+{
+  display flex
+  justify-content space-between
+  align-items center
+
+  padding MARGIN_CONTENT_VERY_SMALL
+  padding-left MARGIN_CONTENT_SMALLER
+  padding-right @padding-left
+}
+
+.accordion .header .label
+{
+  font-size FONT_SIZE_TINY
+  font-weight FONT_WEIGHT_SEMIBOLD
+  text-transform uppercase
+  letter-spacing 2px
+  color white
+}
+
+.accordion .header .icon
+{
+  width 12px
+  height @width
+
+  transform rotate(-45deg)
+
+  transition: transform 100ms ease-in-out
+}
+
+.accordion .header:hover
+{
+  cursor pointer
+}
+
+.accordion .list
+{
+  height 0
+
+  overflow hidden
+}
+
+.accordion.extended .header .icon
+{
+  transform rotate(0deg)
+}
+
+.accordion.extended .list
+{
+  height auto
+}

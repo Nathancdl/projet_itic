@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc><%= options.BASE_URL %>/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="<%= options.BASE_URL %>/fr"/>
+    <lastmod>2021-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>

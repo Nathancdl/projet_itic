@@ -1,0 +1,6 @@
+User-agent: *
+<% if (options.SEO_ACTIVATED === "false") { %>Disallow: /<% } %>
+<% if (options.SEO_ACTIVATED === "true") { %>Allow: /$<% } %>
+<% if (options.SEO_ACTIVATED === "true") { %>Allow: /fr$<% } %>
+<% if (options.SEO_ACTIVATED === "true") { %>Disallow: /<% } %>
+Sitemap: <%= options.BASE_URL %>/sitemap.xml

@@ -9,6 +9,29 @@ Développer une application VueJS : Streaming Application
 
 <br>
 
+## installation
+```sh
+npm install
+```
+
+## launch server for development
+ * Create an .env file at the root directory
+ * You need 2 variables in the file :
+```sh
+API_BASE_URL=http://localhost:3000
+PORT=3005
+```
+It is recommended to launch the project on the port 3005
+ * launch the command in a terminal
+```sh
+npm run start:dev
+```
+
+## deploy
+Everything is automatic, deployed by Github actions (Config available in the .github folder).
+
+<br>
+
 ## Présentation du projet
 
 Une Agence nous confie la réalisation d’une page publicitaire pour une des premières chaines de diffusion de séries et films en streaming sur le web. La promotion a pour but de conquérir des nouveaux abonnés, en proposant la diffusion de tous les classiques du cinéma. Pour cela nous conseille d’abord d’analyser toutes les fonctionnalités au travers des deux wireframes. Les spécifications pour le fonctionnement de chaque partie ne sont pas définies. La charte graphique est en cours d’élaboration.
