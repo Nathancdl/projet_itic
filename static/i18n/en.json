@@ -62,21 +62,21 @@
       "name": "Lorem Ipsum",
       "image": "/icons/brand/icon.png",
       "description": "Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem",
-      "link": "/aspas"
+      "link": "/film"
     },
     "lorem2":{
       "id": "2",
       "name": "Lorem Ipsum",
       "image": "/icons/brand/icon.png",
       "description": "Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ips",
-      "link": "/naat"
+      "link": "/film"
     },
     "lorem3":{
       "id": "3",
       "name": "Lorem Ipsum",
       "image": "/icons/brand/icon.png",
       "description": "Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ips",
-      "link": "/L214"
+      "link": "/film"
     }
   }
 }

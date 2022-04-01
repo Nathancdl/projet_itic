@@ -7,7 +7,7 @@
       </sly-cell>
       <sly-cell class="options flex column">
 
-       <fund></fund>
+
 
         
       </sly-cell>
@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import Fund from "@/components/homePage/fund";
+
 import SlyFrag from "~/layouts/common/sly-frag";
 import SlyCell from "~/layouts/common/sly-cell";
 import KFooter from "~/components/common/k-footer";
@@ -28,7 +28,7 @@ import moment from "moment";
 
 export default {
   layout: 'default',
-  components: {KHeader, SlyCell, SlyFrag, KFooter, Fund},
+  components: {KHeader, SlyCell, SlyFrag, KFooter},
   head () {
     const i18nHead = this.$nuxtI18nHead({ addSeoAttributes: true })
     let head = {
