@@ -7,14 +7,13 @@ Développer une application VueJS : Streaming Application
 
 > &copy; [Nathan CAUDELI](https://www.linkedin.com/in/nathancdl/) - All rights reserved for educational purposes only
 
-<br>
 
-## installation
+## Installation
 ```sh
 npm install
 ```
 
-## launch server for development
+## Launch server for development
  * Create an .env file at the root directory
  * You need 2 variables in the file :
 ```sh
@@ -27,7 +26,7 @@ It is recommended to launch the project on the port 3005
 npm run start:dev
 ```
 
-## deploy
+## Deploy
 Everything is automatic, deployed by Github actions (Config available in the .github folder).
 
 <br>
