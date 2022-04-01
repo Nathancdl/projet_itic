@@ -5,7 +5,13 @@
   "pages" : {
     "home" : "Accueil",
     "settings" : "Paramètres",
-    "premium" : "Premium"
+    "premium" : "Premium",
+    "sitemap": "Plan du site",
+    "ressources": "Ressources",
+    "faq": "FAQ",
+    "press": "Presse",
+    "app": "Apps",
+    "our_partners": "Nos partenaires"
     
   },
   "showcase_image" : {

@@ -6,11 +6,8 @@
           <span class="content">
             <span class="title">{{$t('pages.sitemap')}}</span>
             <tw-internal-link class="option inherit underline-hover" :to="localePath('index')">{{$t('pages.home')}}</tw-internal-link>
-            <tw-internal-link class="option inherit underline-hover" to="/">{{$t('pages.our_mission')}}</tw-internal-link>
-            <tw-internal-link class="option inherit underline-hover" to="/what">{{$t('pages.how_it_works')}}</tw-internal-link>
-            <tw-external-link class="option inherit important underline-hover" target="_self" :href="$t('pages.partners_url')">
-                {{$t('pages.partners')}}
-            </tw-external-link>
+            <tw-internal-link class="option inherit underline-hover" to="/settings">{{$t('pages.settings')}}</tw-internal-link>
+            <tw-internal-link class="option inherit underline-hover" to="/premium">{{$t('pages.premium')}}</tw-internal-link>
           </span>
         </sly-cell>
         <sly-cell class="part">

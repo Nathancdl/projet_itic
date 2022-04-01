@@ -5,7 +5,13 @@
   "pages" : {
     "home" : "Home",
     "settings" : "Parameter",
-    "premium" : "Premium"
+    "premium" : "Premium",
+    "sitemap": "Site Map",
+    "ressources": "Ressources",
+    "faq": "Q&A",
+    "press": "Press",
+    "app": "Apps",
+    "our_partners": "Our partners"
     
   }, 
   "showcase_image" : {
@@ -45,7 +51,9 @@
     "year" : "1 year",
     "_6" : "6 months",
     "_3" : "3 months",
-    "_1" : "1 months"
+    "_1" : "1 months",
+    "recent_film" : "Recent film",
+    "action_film" : "Action Film"
   },
   "films":{
     "lorem1":{
