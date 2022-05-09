@@ -23,7 +23,7 @@
    <sly-cell class="content flex j-center a-center t-center">
       <h1 class="title-type-one" v-html="$t('home_page.action_film')"></h1>
     </sly-cell>
- <VueSlickCarousel v-bind="settings">
+ <VueSlickCarousel v-bind="setting">
         <div v-for="(film, index) in $t('films')" :key="'film'+index" >  
          <div>
           <div class="gallery-item">
@@ -137,6 +137,88 @@ export default {
       "autoplay": true,
       "speed": 3000,
       "autoplaySpeed": 5000,
+      "pauseOnFocus": true,
+      "pauseOnHover": true,
+      }
+    }
+  ]
+        },
+
+        setting: {
+          "arrows": true,
+          "infinite": true,
+          "slidesToShow": 1,
+          "focusOnSelect": true,
+          "slidesToScroll": 1,
+          "touchThreshold": 5,
+          "initialSlide": 1,
+          "centerMode" : true,
+          "centerPadding" : '25%',
+          "autoplay": true,
+          "speed": 3000,
+          "autoplaySpeed": 7000,
+          "pauseOnFocus": true,
+          "pauseOnHover": true,
+
+          
+  "responsive": [
+    {
+      "breakpoint": 1800,
+      "settings": {
+          "arrows": true,
+          "infinite": true,
+          "slidesToShow": 1,
+          "focusOnSelect": true,
+          "slidesToScroll": 1,
+          "touchThreshold": 5,
+          "initialSlide": 1,
+          "centerMode" : true,
+          "centerPadding" : '20%',
+          "autoplay": true,
+          "speed": 3000,
+          "autoplaySpeed": 7000,
+          "pauseOnFocus": true,
+          "pauseOnHover": true,
+      }
+    },
+    {
+      "breakpoint": 1224,
+      "settings": {
+        "slidesToShow": 1,
+        "slidesToScroll": 1,
+        "infinite": true,
+        "arrows": true,
+        "centerMode" : false,
+        "autoplay": true,
+        "speed": 3000,
+        "autoplaySpeed": 7000,
+        "pauseOnFocus": true,
+        "pauseOnHover": true,
+      }
+    },
+    {
+      "breakpoint": 800,
+      "settings": {
+        "slidesToShow": 1,
+        "slidesToScroll": 1,
+        "initialSlide": 1,
+        "centerMode" : false,
+        "autoplay": true,
+        "speed": 3000,
+        "autoplaySpeed": 7000,
+        "pauseOnFocus": true,
+        "pauseOnHover": true,
+      }
+    },
+    {
+      "breakpoint": 480,
+      "settings": {
+      "slidesToShow": 1,
+      "slidesToScroll": 1,
+      "centerMode" : false,
+      "autoplay": true,
+      "speed": 3000,
+      "autoplaySpeed": 7000,
       "pauseOnFocus": true,
       "pauseOnHover": true,
       }

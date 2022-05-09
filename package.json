@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:dev": "cross-env NODE_ENV=development nuxt dev",
+    "dev": "cross-env NODE_ENV=development nuxt dev",
     "start:staging": "nuxt build && cross-env NODE_ENV=production IS_STAGING=true NUXT_HOST=0.0.0.0 nuxt start",
     "start:prod": "nuxt build && cross-env NODE_ENV=production NUXT_HOST=0.0.0.0 nuxt start"
   },

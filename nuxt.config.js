@@ -49,7 +49,7 @@ module.exports = {
       {rel: 'search', type:"application/opensearchdescription+xml", title:"Streaming", href: '/opensearch.xml'},
     ]
   },
-  loading: {color: '#fff'},
+  loading: { color: '#2bcd6d', height: '3px', throttle: 500 },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ['@/assets/style/global/index.import.styl'],
 
@@ -145,7 +145,7 @@ module.exports = {
     ],
     extractCSS: {
       ignoreOrder: false
-    }
+    },
   },
   env: {
     SEO_ACTIVATED: process.env.SEO_ACTIVATED || "false",
