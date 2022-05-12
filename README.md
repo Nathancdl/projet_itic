@@ -28,7 +28,11 @@ npm run start:dev
 
 ## Présentation du projet
 
-Une Agence nous confie la réalisation d’une page publicitaire pour une des premières chaines de diffusion de séries et films en streaming sur le web. La promotion a pour but de conquérir des nouveaux abonnés, en proposant la diffusion de tous les classiques du cinéma. Pour cela nous conseille d’abord d’analyser toutes les fonctionnalités au travers des deux wireframes. Les spécifications pour le fonctionnement de chaque partie ne sont pas définies. La charte graphique est en cours d’élaboration.
+Une Agence nous confie la réalisation d’une site pour une des premières chaines de diffusion de séries et films en streaming sur le web. La promotion a pour but de conquérir des nouveaux abonnés, en proposant la diffusion de tous les classiques du cinéma.<br>
+<br>
+Je vais vous présenter mon projet que j’ai pu réaliser au cours cette année de bachelor CDA, mettant en pratique ce qui a été vu en cours ainsi que l’experience engrangé lors de cette année d’alternance, qui m’ont permis de mener à bien ce projet. L’objectif était de réaliser un site de streaming en utilisant des API (notamment IMDB) déjà existant pour récupérer toutes les données concernant les films et de pouvoir les regarder dans le cas où il serait disponible gratuitement. Étant passionné par le monde du cinéma, le thème du site était pour moi une évidence, proposer un service gratuit pour l’utilisateur était pour moi la priorité. Le site sera donc gratuit, sans pub, et sans utilisation des données personnelle de l’utilisateur à des fins malveillants. Il sera nécessaire de se créer un compte dans l’unique but de pouvoir affiner et de proposer des films au gout de chaque utilisateur.
+
+
 
 <br>
 
