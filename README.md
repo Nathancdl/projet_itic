@@ -71,8 +71,8 @@ L'application doit être structurée avec une navigation et un footer, tout le c
 <br>
 
 - ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000`
-- ![#525252](https://via.placeholder.com/15/525252/000000?text=+) `#525252`
-- ![#fed530](https://via.placeholder.com/15/fed530/000000?text=+) `#fed530`
+- ![#525252](https://via.placeholder.com/15/525252/525252?text=+) `#525252`
+- ![#fed530](https://via.placeholder.com/15/fed530/fed530?text=+) `#fed530`
 
 <br>
 
