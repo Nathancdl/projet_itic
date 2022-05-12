@@ -28,7 +28,7 @@ npm run start:dev
 
 ## Présentation du projet
 
-Une Agence nous confie la réalisation d’une site pour une des premières chaines de diffusion de séries et films en streaming sur le web. La promotion a pour but de conquérir des nouveaux abonnés, en proposant la diffusion de tous les classiques du cinéma.<br>
+J'ai décidé de réaliser un site de diffusion de séries et films en streaming sur le web. La developpement a pour but de conquérir de nouveaux abonnés, en proposant la diffusion de tous les classiques du cinéma.<br>
 <br>
 Je vais vous présenter mon projet que j’ai pu réaliser au cours cette année de bachelor CDA, mettant en pratique ce qui a été vu en cours ainsi que l’experience engrangé lors de cette année d’alternance, qui m’ont permis de mener à bien ce projet. L’objectif était de réaliser un site de streaming en utilisant des API (notamment IMDB) déjà existantes pour récupérer toutes les données concernant les films et de pouvoir les regarder dans le cas où ils seraient disponible gratuitement. Étant passionné par le monde du cinéma, le thème du site était pour moi une évidence, proposer un service gratuit pour l’utilisateur était pour moi la priorité. Le site sera donc gratuit, sans pub, et sans utilisation des données personnelle de l’utilisateur à des fins malveillants. Il sera nécessaire de se créer un compte dans l’unique but de pouvoir affiner et de proposer des films au gout de chaque utilisateur.
 
@@ -38,18 +38,19 @@ Je vais vous présenter mon projet que j’ai pu réaliser au cours cette année
 
 ## Phase de réalisation
 
-- Créer un répertoire de travail
-- Commencer le travail par une maquette statique (sans css)
+- Créer l'environnement de développement
+- Commencer le developpement par une maquette statique (sans css)
 - Valider la maquette dans le validateur W3C
-- Respecter les emplacements des éléments vus dans les wireframes
-- Commencer à réfléchir pour le fonctionnement du formulaire
-- Penser au développement de la page à partir de 0 : sans framework
-- Après l’intégration de la charte graphique, revenir sur les fonctionnalités et se préparer à intégrer toute la maquette dans un framework
+- Initialisation du projet en Vue/NodeJS & Nuxt
+- Installation des librairies et dépendances nécessaires au projet
+- Bench des Interface de programmation d’application (API)
+- Bench des Frameworks en fonction du besoin
+- Intégration de la charte graphique dans le/les frameworks (TailwindCSS)
 - Revenir sur le développement des fonctionnalités développées dans la première phase.
-- Trouver la meilleure méthode pour reproduire le même contrôle des événements : envoie des requête et réponse
-
-
-L'application doit être structurée avec une navigation et un footer, tout le contenu de l'application doit s'afficher dans une balise main.
+- Création du back-end et de la base de données (MongoDB)
+- Connexion du back et du front via Axios
+- Developpement des features
+- Mise en ligne du projet
 
 <br>
 
